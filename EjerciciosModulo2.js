@@ -1,18 +1,26 @@
 //? Laboratorio
 //Declaracion e inicializacion de las variables del contacto
 
-let nombre1="Maxwell Wright"
-let correo1="Curabitur.egestas.nunc@nonummyac.co.uk"
+let nombre1="Maxwell Wright";
+let numer1="(0191) 719495";
+let correo1="Curabitur.egestas.nunc@nonummyac.co.uk";
 
-let nombre2="Raja Villarrea"
-let correo2="posuere.vulputate@sed.com"
+let nombre2="Raja Villarrea";
+let numer2="0866 398 2895";
+let correo2="posuere.vulputate@sed.com";
 
-let nombre3="Helen Richards"
-let correo3="libero@convallis.edu"
+let nombre3="Helen Richards";
+let numer3="0800 1111";
+let correo3="libero@convallis.edu";
 
 console.log(`Nombre : ${nombre1}`);
+console.log(`Teléfono: ${numer1}`);
 console.log(`correo1 : ${correo1}`);
+console.log(`Nombre : ${nombre2}`);
+console.log(`Teléfono: ${numer2}`);
+console.log(`correo1 : ${correo2}`);
 console.log(`Nombre : ${nombre3}`);
+console.log(`Teléfono: ${numer3}`);
 console.log(`correo3 : ${correo3}`);
 
 //?Tarea 3
